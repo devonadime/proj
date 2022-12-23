@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Woolen handicrafts",
+  "image": "1.png",
+  "price": "500",
+  "size": "clothes"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Kondapalli Toys ",
+  "image": "3.png",
+  "price": "500",
+  "size": "Clay"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Water Hyacinth Handicrafts",
+  "image": "2.png",
+  "price": "500",
+  "size": "jute"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Americana",
+  "image": "4.png",
+  "price": "500",
+  "size": "jute"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Banjara Needlecraft",
+  "image": "5.png",
+  "price": "500",
+  "size": "weeving"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Bamboo and Cane Handicraft",
+  "image": "6.png",
+  "price": "500",
+  "size": "Bamboo"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Terracotta Jug",
+  "image": "7.png",
+  "price": "500",
+  "size": "clay"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Clay Glasses",
+  "image": "8.png",
+  "price": "500",
+  "size": "clay"
+},{
+  "_id": {
+    "$oid": "6305bb05e6d488fc891f4fd9"
+  },
+  "name": "Tarracota Bird",
+  "image": "9.png",
+  "price": "500",
+  "size": "clay"
+},{
+  "_id": {
+    "$oid": "6305bb11e6d488fc891f4fda"
+  },
+  "name": "Clay Pot",
+  "image": "10.png",
+  "price": "500",
+  "size": "clay"
+},{
+  "_id": {
+    "$oid": "6305bb13e6d488fc891f4fdb"
+  },
+  "name": "Black Stone Potters",
+  "image": "11.png",
+  "price": "500",
+  "size": "clay"
+},{
+  "_id": {
+    "$oid": "6305bb15e6d488fc891f4fdc"
+  },
+  "name": "Clay Piggy Bank",
+  "image": "12.png",
+  "price": "500",
+  "size": "clay"
+}]
